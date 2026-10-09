@@ -4,6 +4,8 @@ Réplica independente do Organograma da Simulação, sem API e sem dependências
 de nenhum sistema. Os dados são fictícios (`src/dados`) e o salvamento é feito na sessão do
 navegador (`sessionStorage`), em dois formatos de exemplo.
 
+[Link para visualizar o exemplo](https://vueflow-template-organograma-dpj5mn1mj-handressa95.vercel.app/)
+
 ## Comandos
 
 ```sh
